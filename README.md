@@ -11,19 +11,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hishamalwy">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="42" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
 
   <a href="https://x.com/H_3lwy">
-    <img src="https://cdn.simpleicons.org/x/FFFFFF" height="38" alt="X"/>
+    <img src="https://cdn.simpleicons.org/x/FFFFFF" height="45"/>
   </a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
 
   <a href="YOUR_YOUTUBE_LINK">
-    <img src="https://cdn.simpleicons.org/youtube/FF0000" height="42" alt="YouTube"/>
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" height="45"/>
   </a>
 </p>
 

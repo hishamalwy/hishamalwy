@@ -1,31 +1,42 @@
 <h1 align="center">Hi!, I'm Hisham Alwy 👋🏼</h1>
+
 <h2 align="center">Software Engineer | .NET Developer</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hishamalwy">
-    <img
-      src="https://readme-typing-svg.herokuapp.com/?lines=Find+me+around+the+web;Let's+connect+and+build+something+great;Follow+my+journey+and+updates&font=Fira+Code&center=true&width=520&height=45&color=0072B1&pause=1600&size=20"
-      alt="Typing SVG"
-    />
-  </a>
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?lines=Find+me+around+the+web;Connect+with+me+on+social+media;Follow+my+journey+and+updates&font=Fira+Code&center=true&width=520&height=45&color=0072B1&pause=1500&size=20"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
 
   <a href="https://www.linkedin.com/in/hishamalwy">
-    <img height="48" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+    <img
+      height="48"
+      src="https://skillicons.dev/icons?i=linkedin"
+      alt="LinkedIn"
+    />
   </a>
 
   &nbsp;&nbsp;
 
   <a href="https://x.com/H_3lwy">
-    <img height="48" src="https://cdn.simpleicons.org/x/FFFFFF" alt="X"/>
+    <img
+      height="48"
+      src="https://cdn.simpleicons.org/x/FFFFFF"
+      alt="X"
+    />
   </a>
 
   &nbsp;&nbsp;
 
   <a href="YOUR_YOUTUBE_LINK">
-    <img height="48" src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube"/>
+    <img
+      height="48"
+      src="https://cdn.simpleicons.org/youtube/FF0000"
+      alt="YouTube"
+    />
   </a>
 
 </p>
@@ -51,6 +62,17 @@
 
 ---
 
+### ⚡ GitHub Activity:
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=hishamalwy&theme=github-compact&hide_border=true&area=true"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
+---
+
 ### 📊 Most Used Languages:
 
 <p align="center">
@@ -62,7 +84,7 @@
 
 ---
 
-### 🐍 Watch my contributions get eaten
+### 🐍 Contribution Snake:
 
 <p align="center">
   <picture>
@@ -75,8 +97,29 @@
       srcset="https://raw.githubusercontent.com/hishamalwy/hishamalwy/output/github-contribution-grid-snake.svg"
     />
     <img
-      alt="github contribution grid snake animation"
+      alt="GitHub Contribution Snake"
       src="https://raw.githubusercontent.com/hishamalwy/hishamalwy/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
+
+---
+
+### 👾 Pac-Man Contributions:
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/hishamalwy/hishamalwy/output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/hishamalwy/hishamalwy/output/pacman-contribution-graph.svg"
+    />
+    <img
+      alt="Pac-Man Contribution Graph"
+      src="https://raw.githubusercontent.com/hishamalwy/hishamalwy/output/pacman-contribution-graph.svg"
     />
   </picture>
 </p>

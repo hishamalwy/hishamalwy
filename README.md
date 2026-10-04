@@ -10,35 +10,15 @@
 </p>
 
 <p align="center">
-
   <a href="https://www.linkedin.com/in/hishamalwy">
-    <img
-      height="48"
-      src="https://skillicons.dev/icons?i=linkedin"
-      alt="LinkedIn"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-  &nbsp;&nbsp;
-
   <a href="https://x.com/H_3lwy">
-    <img
-      height="48"
-      src="https://cdn.simpleicons.org/x/FFFFFF"
-      alt="X"
-    />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-
-  &nbsp;&nbsp;
-
   <a href="YOUR_YOUTUBE_LINK">
-    <img
-      height="48"
-      src="https://cdn.simpleicons.org/youtube/FF0000"
-      alt="YouTube"
-    />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-
 </p>
 
 <p align="center">
@@ -57,17 +37,6 @@
     height="55"
     src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,sqlserver,html,css,js,ts,angular,docker,git,bootstrap&theme=dark"
     alt="Languages and Tools"
-  />
-</p>
-
----
-
-### ⚡ GitHub Activity:
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=hishamalwy&theme=github-compact&hide_border=true&area=true"
-    alt="GitHub Activity Graph"
   />
 </p>
 

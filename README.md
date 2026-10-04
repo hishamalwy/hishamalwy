@@ -11,13 +11,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hishamalwy">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="42" alt="LinkedIn"/>
   </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://x.com/H_3lwy">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/x/FFFFFF" height="38" alt="X"/>
   </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="YOUR_YOUTUBE_LINK">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" height="42" alt="YouTube"/>
   </a>
 </p>
 

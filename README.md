@@ -3,44 +3,80 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hishamalwy">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn;I%20Post%20Insightful%20Content;Follow%20for%20New%20Updates&font=Bold%20Code&center=true&color=0072B1&pause=1750&size=21" />
+    <img
+      src="https://readme-typing-svg.herokuapp.com/?lines=Find+me+around+the+web;Let's+connect+and+build+something+great;Follow+my+journey+and+updates&font=Fira+Code&center=true&width=520&height=45&color=0072B1&pause=1600&size=20"
+      alt="Typing SVG"
+    />
   </a>
 </p>
 
 <p align="center">
+
   <a href="https://www.linkedin.com/in/hishamalwy">
-    <img height="55" src="https://skillicons.dev/icons?i=linkedin" />
+    <img height="48" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
+
+  &nbsp;&nbsp;
+
+  <a href="https://x.com/H_3lwy">
+    <img height="48" src="https://cdn.simpleicons.org/x/FFFFFF" alt="X"/>
+  </a>
+
+  &nbsp;&nbsp;
+
+  <a href="YOUR_YOUTUBE_LINK">
+    <img height="48" src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube"/>
+  </a>
+
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hishamalwy&color=4010B0&style=for-the-badge" height="30"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=hishamalwy&label=Profile%20Views&color=4010B0&style=flat"
+    alt="Profile Views"
+  />
 </p>
 
 ---
 
 ### 🛠️ Languages & Tools:
-<p align="center">
-  <img height="55" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,sqlserver,html,css,js,ts,angular,docker,git,bootstrap&theme=dark"/>
-</p>
 
----
-
-### 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hishamalwy&theme=onestar&row=1&column=7&margin-w=8&margin-h=8"/>
+  <img
+    height="55"
+    src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,sqlserver,html,css,js,ts,angular,docker,git,bootstrap&theme=dark"
+    alt="Languages and Tools"
+  />
 </p>
 
 ---
 
 ### 📊 Most Used Languages:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hishamalwy&layout=compact&langs_count=5&theme=codeSTACKr"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hishamalwy&layout=compact&langs_count=6&theme=codeSTACKr&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Watch my contributions get eaten
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hishamalwy/hishamalwy/output/github-contribution-grid-snake-dark.svg"/>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/hishamalwy/hishamalwy/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/hishamalwy/hishamalwy/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/hishamalwy/hishamalwy/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>

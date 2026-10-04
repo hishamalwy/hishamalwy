@@ -1,87 +1,92 @@
-<div align="center">
+<h1 align="center">Hi!, I'm Hisham Alwy 👋🏼</h1>
+<h2 align="center">Software Engineer | .NET Developer</h2>
 
-# 👋 Hi, I'm Hisham Alwy
+<p align="center">
+  <a href="https://www.linkedin.com/in/hishamalwy">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Visit%20my%20LinkedIn;Software%20Engineer%20%7C%20.NET%20Developer;Always%20Learning%20and%20Building&font=Fira%20Code&center=true&color=58A6FF&pause=1600&size=20">
+  </a>
+</p>
 
-### Software Engineer | .NET Developer
+<p align="center">
+  <a href="https://www.linkedin.com/in/hishamalwy">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/H_3lwy">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+</p>
 
-I build clean, maintainable, and scalable software solutions.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hishamalwy&color=58A6FF&style=for-the-badge"/>
+</p>
 
-<br>
+---
 
-<a href="https://www.linkedin.com/in/hishamalwy">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### 🛠️ Languages & Tools
 
-<a href="https://x.com/H_3lwy">
-  <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
+<p align="center">
+  <img height="55" src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,sqlserver,html,css,js,ts,angular,docker,git,bootstrap&theme=dark"/>
+</p>
 
-</div>
+---
 
-<br>
+### 📊 GitHub Stats
 
-## About Me
+<p align="center">
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api?username=hishamalwy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+       
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=hishamalwy&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+</p>
 
-- 💻 Software Engineer focused on **.NET Development**
-- ⚙️ Working with **C#, ASP.NET Core and REST APIs**
-- 🗄️ Interested in **Databases, SQL and Backend Architecture**
-- 📚 Continuously improving my software engineering skills
-- 🚀 I enjoy turning ideas into real software products
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hishamalwy&theme=tokyonight&hide_border=true"/>
+</p>
 
-<br>
+---
 
-## Tech Stack
+### 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hishamalwy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio" />
+---
 
-<br><br>
+### 📜 HackerRank Certificates
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap" />
+<p align="center">
 
-<br><br>
+  <a href="https://www.hackerrank.com/certificates/YOUR_SQL_CERTIFICATE_ID">
+    <img src="https://img.shields.io/badge/SQL-HackerRank%20Certified-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+  &nbsp;
 
-<br><br>
+  <a href="https://www.hackerrank.com/certificates/YOUR_CSHARP_CERTIFICATE_ID">
+    <img src="https://img.shields.io/badge/C%23-HackerRank%20Certified-512BD4?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
 
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  &nbsp;
 
-</div>
+  <a href="https://www.hackerrank.com/certificates/YOUR_PROBLEM_SOLVING_CERTIFICATE_ID">
+    <img src="https://img.shields.io/badge/Problem%20Solving-HackerRank%20Certified-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
 
-<br>
+</p>
 
-## GitHub Stats
+<p align="center">
+  <a href="https://www.hackerrank.com/hisham_3lwy">
+    View my HackerRank Profile
+  </a>
+</p>
 
-<div align="center">
+---
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=hishamalwy&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
+### 🐍 Contribution Snake
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hishamalwy&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=C9D1D9"/>
-
-</div>
-
-<br>
-
-## Profiles
-
-<div align="center">
-
-<a href="https://www.hackerrank.com/hisham_3lwy">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/hishamalwy">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### Thanks for visiting 👋
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hishamalwy/hishamalwy/output/github-contribution-grid-snake-dark.svg"/>
+</p>

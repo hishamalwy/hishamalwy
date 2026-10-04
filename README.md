@@ -1,109 +1,87 @@
 <div align="center">
 
-# Hi, I'm Hisham Alwy 👋
+# 👋 Hi, I'm Hisham Alwy
 
-### Software Engineer • .NET Developer
+### Software Engineer | .NET Developer
 
-Building clean, scalable and maintainable backend solutions.
+I build clean, maintainable, and scalable software solutions.
 
-<br/>
+<br>
 
 <a href="https://www.linkedin.com/in/hishamalwy">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://x.com/H_3lwy">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
-
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=hishamalwy&style=flat-square&color=0A66C2" />
 
 </div>
 
----
+<br>
 
-## 👨‍💻 About Me
+## About Me
 
-- 💻 Software Engineer specialized in **.NET / Backend Development**
-- ⚙️ Building APIs and scalable backend systems
-- 🗄️ Interested in **Databases & System Design**
-- 📚 Always improving my software engineering skills
-- 🤝 Open to collaborating on interesting software projects
+- 💻 Software Engineer focused on **.NET Development**
+- ⚙️ Working with **C#, ASP.NET Core and REST APIs**
+- 🗄️ Interested in **Databases, SQL and Backend Architecture**
+- 📚 Continuously improving my software engineering skills
+- 🚀 I enjoy turning ideas into real software products
 
----
+<br>
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### Backend
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio" />
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet" />
-
-### Frontend
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap" />
 
-### Database & Tools
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,visualstudio,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
 
-<br/>
+<br><br>
 
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
 </div>
 
----
+<br>
 
-## 📊 GitHub Analytics
+## GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hishamalwy&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"/>
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=hishamalwy&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hishamalwy&layout=compact&hide_border=true&theme=github_dark&langs_count=8"/>
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=hishamalwy&theme=github-dark-blue&hide_border=true"/>
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hishamalwy&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=C9D1D9"/>
 
 </div>
 
----
+<br>
 
-## 🏅 Certifications
+## Profiles
 
 <div align="center">
 
 <a href="https://www.hackerrank.com/hisham_3lwy">
-  <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/hishamalwy">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
----
-
-## 🐍 Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/hishamalwy/hishamalwy/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
+<br>
 
 <div align="center">
 
 ### Thanks for visiting 👋
-
-⭐ Check out my repositories and feel free to connect with me.
 
 </div>

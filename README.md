@@ -11,19 +11,20 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hishamalwy">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+    <img
+      src="https://readme-typing-svg.herokuapp.com/?lines=Visit+my+LinkedIn;I+Post+Insightful+Content;Follow+for+New+Updates&font=Fira+Code&center=true&width=500&height=45&color=0072B1&pause=1500&size=20"
+      alt="Typing SVG"
+    />
   </a>
+</p>
 
-  &nbsp;&nbsp;
-
-  <a href="https://x.com/H_3lwy">
-    <img src="https://cdn.simpleicons.org/x/FFFFFF" height="45"/>
-  </a>
-
-  &nbsp;&nbsp;
-
-  <a href="YOUR_YOUTUBE_LINK">
-    <img src="https://cdn.simpleicons.org/youtube/FF0000" height="45"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/hishamalwy">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      height="55"
+      alt="LinkedIn"
+    />
   </a>
 </p>
 

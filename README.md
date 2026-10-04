@@ -21,7 +21,7 @@
   </p>
 <h3 align="left">🏆 GitHub Trophies:</h3>
   <p align="left">
-      <img src="https://github-profile-trophy.vercel.app/?username=hishamalwy&theme=onestar&row=1&column=7"/>
+      <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=hishamalwy&theme=onestar&row=1&column=7"/>
   </p>
   <p align="left">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hishamalwy&layout=compact&langs_count=5&theme=codeSTACKr"/>

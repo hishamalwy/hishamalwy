@@ -45,12 +45,12 @@
 
 ### 📊 Most Used Languages:
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hishamalwy&layout=compact&langs_count=6&theme=codeSTACKr&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
+### 📊 Most Used Languages:
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hishamalwy&layout=compact&langs_count=6&theme=codeSTACKr&hide_border=true&hide=Jupyter%20Notebook"
+  alt="Top Languages"
+/>
 
 ---
 

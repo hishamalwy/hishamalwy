@@ -36,7 +36,7 @@
 <p align="center">
   <img
     height="55"
-    src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,sqlserver,html,css,js,ts,angular,docker,git,bootstrap&theme=dark"
+    src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,sqlserver,html,css,js,ts,angular,docker,git,bootstrap,odoo,python&theme=dark"
     alt="Languages and Tools"
   />
 </p>
@@ -45,7 +45,7 @@
 
 ### 📊 Most Used Languages:
 
-<p align="left">
+<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=hishamalwy&layout=compact&langs_count=6&theme=codeSTACKr&hide_border=true&hide=Jupyter%20Notebook"
     alt="Top Languages"

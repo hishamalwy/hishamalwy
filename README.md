@@ -36,8 +36,15 @@
 <p align="center">
   <img
     height="55"
-    src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,sqlserver,html,css,js,ts,angular,docker,git,bootstrap,odoo,python&theme=dark"
+    src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,sqlserver,html,css,js,ts,angular,docker,git,bootstrap,python,postman&theme=dark"
     alt="Languages and Tools"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"
+    alt="Odoo"
   />
 </p>
 
